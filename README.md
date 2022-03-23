@@ -40,6 +40,13 @@
 <a href="https://github.com/jschwitzki/dio-bootcamps-desafios/blob/main/Java/Desafios%20-%20GFT%20QA%20%231/multiplos.java">Múltiplos</a><br />
 <a href="https://github.com/jschwitzki/dio-bootcamps-desafios/blob/main/Java/Desafios%20-%20GFT%20QA%20%231/tempo-de-jogo.java">Tempo de Jogo</a><br />
 
+<h4>Mais Desafios - GFT QA #1</h4>
+<a href="https://github.com/jschwitzki/dio-bootcamps-desafios/blob/main/Java/Mais%20Desafios%20-%20GFT%20QA%20%231/media-1.java">Média I</a><br />
+<a href="https://github.com/jschwitzki/dio-bootcamps-desafios/blob/main/Java/Mais%20Desafios%20-%20GFT%20QA%20%231/domingo-de-manha.java">Domingo de Manhã</a><br />
+<a href="https://github.com/jschwitzki/dio-bootcamps-desafios/blob/main/Java/Mais%20Desafios%20-%20GFT%20QA%20%231/a-resposta-de-theon.java">A Resposta de Theon</a><br />
+<a href="https://github.com/jschwitzki/dio-bootcamps-desafios/blob/main/Java/Mais%20Desafios%20-%20GFT%20QA%20%231/divisores.java">Divisores I</a><br />
+<a href="https://github.com/jschwitzki/dio-bootcamps-desafios/blob/main/Java/Mais%20Desafios%20-%20GFT%20QA%20%231/multiplicacao-simples.java">Multiplicação Simples</a><br />
+<a href="https://github.com/jschwitzki/dio-bootcamps-desafios/blob/main/Java/Mais%20Desafios%20-%20GFT%20QA%20%231/xadrez.java">Xadrez</a><br />
 
 <h4>Desafios Intermediários - GFT QA #1</h4>
 <a href="https://github.com/jschwitzki/dio-bootcamps-desafios/blob/main/Java/Desafios%20Intermediários%20-%20GFT%20QA%20%231/ordenando-impares-e-pares.java">Ordenando Números Pares e Ímpares</a><br />
